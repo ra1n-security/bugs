@@ -1,2 +1,5 @@
-# bugs
-Write-ups or files containing bugs found my @iHateRa1n. 
+# ra1n
+
+This repository contains bugs in software. 
+
+ALL EXPLOIT FILES ARE 0DAY VULNERABILITIES. 
